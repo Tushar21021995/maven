@@ -28,6 +28,7 @@ public class PullTest
 		//driver.get(URL);
 		System.out.println("Welcome to jenkins");
 		System.out.println("Dummy Project");
+		System.out.println("pull request");
 		
 	}
 
