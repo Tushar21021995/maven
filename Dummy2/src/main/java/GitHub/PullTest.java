@@ -29,6 +29,8 @@ public class PullTest
 		System.out.println("Welcome to jenkins");
 		System.out.println("Dummy Project");
 		System.out.println("pull request");
+		System.out.println("pull request2");
+		
 		
 	}
 
